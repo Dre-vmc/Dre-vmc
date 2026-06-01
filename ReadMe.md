@@ -1,18 +1,34 @@
-# Hi, i am André Cardoso 
-👨‍🎓 Systems Analysis and Development Student.<br>🔎Explorer of a new world in search of new challenges.
+#  Analista de Dados & Estrategista Operacional
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dre_vmc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-vitor-cardoso) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dre-vmc&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dre-vmc&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dre-vmc&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Olá! Sou um profissional focado em transformar processos logísticos complexos em **decisões inteligentes e automatizadas**. Utilizo Python, IA e BI para criar soluções que eliminam gargalos e otimizam a produtividade.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dre-vmc&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  Meu Ecossistema de Soluções
+
+Minha atuação é baseada em três pilares que sustentam a operação logística:
+
+### 1. Diagnóstico e Automação (Python + AI)
+*   **Monitoramento de Pacotes Retidos:** Aplicação web para identificar gargalos em tempo real e gerar relatórios narrativos automáticos.
+*   **Gestão de Fluxos GLP:** Controle centralizado de entradas e saídas de insumos (sacas/pallets), garantindo acurácia no saldo operacional.
+*   **Planejamento de Abastecimento:** Motor de cálculo que traduz forecast de pedidos em necessidades diárias de envio.
+
+### 2. Análise Estratégica (Business Intelligence)
+*   **Dashboard de Performance:** Histórico consolidado que visualiza o impacto por regional, focando em métricas de 1º e 2º carregamento para auditoria de SLA.
+
+---
+
+## Tecnologias & Metodologia
+*   **Linguagens & Web:** Python, Streamlit (Framework Web).
+*   **Data Analysis:** Pandas, Excel avançado, Lógica de Banco de Dados.
+*   **Visualização:** Power BI (Histórico e Performance).
+*   **Diferencial:** Utilizo IA generativa como co-piloto para acelerar o desenvolvimento, atuando como o arquiteto da lógica de negócio e o garantidor da qualidade dos dados.
+
+---
+
+## Impacto Operacional
+Meu trabalho reduz o tempo de resposta entre a identificação de um problema (ex: *chegada tardia do veículo* ou *backlog operacional*) e a tomada de decisão. 
+
+ **Vamos conversar sobre dados e logística?** 
+*   [Seu LinkedIn]
+*   [Seu e-mail]
